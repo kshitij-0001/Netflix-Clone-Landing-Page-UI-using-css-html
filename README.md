@@ -30,7 +30,9 @@ CSS3
 
 📸 Preview
 
-(Optional – add a screenshot if available)
+📸 Preview
+![Netflix Clone Preview](preview.png)
+
 
 
 🎯 Purpose
