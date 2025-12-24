@@ -44,4 +44,4 @@ Understand how real-world landing pages are structured
 
 
 kshitij Lokhande
-GitHub: https://github.com/your-username# Netflix-Clone-Landing-Page-UI-using-css-html
+GitHub: https://github.com/kshitij-0001/Netflix-Clone-Landing-Page-UI-using-css-html
