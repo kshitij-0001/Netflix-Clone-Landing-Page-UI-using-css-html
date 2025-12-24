@@ -31,7 +31,7 @@ CSS3
 📸 Preview
 
 📸 Preview
-![Netflix Clone Preview](preview.png)
+![Netflix Clone Preview](Preview.png)
 
 
 
