@@ -27,9 +27,6 @@ CSS3
 └── assets/
     └── images/
     
-
-📸 Preview
-
 📸 Preview
 ![Netflix Clone Preview](Preview.png)
 
